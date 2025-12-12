@@ -1,7 +1,7 @@
 # climate-analytics-portfolio
 Selected examples of my scientific computing, data engineering, and climate analytics code.
 
--- QBO metrics (signal extraction, reproducible analysis): Computes standardized Quasi-Biennial Oscillation (QBO) diagnostics using modular xarray-based functions and provides reproducible workflow for downstream analysis. See the "qbo-hist-amip-summary-v4.png" figure for mult-model example.
+-- QBO metrics (signal extraction, reproducible analysis): Computes standardized Quasi-Biennial Oscillation (QBO) diagnostics using modular xarray-based functions and provides reproducible workflow for downstream analysis. See the "qbo-hist-amip-summary-v4.png" figure for multi-model example.
 
 -- SSW composites (pipeline + analysis + visualization): An end-to-end pipeline that constructs composite fields of surface temperature or sea level pressure anomalies following SSW events using xarray/dask, including diagnostics and plotting utilities.
 
