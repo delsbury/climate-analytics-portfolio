@@ -7,6 +7,6 @@ Welcome! My name is Dillon Elsbury - I am a geospatial data scientist with exper
 
 -- NOAA GEFS forecast data multivariate downloader (data engineering + workflow automation): A production-style Python script that automatically retrieves all NOAA Global Ensemble Forecast System (GEFS) ensemble members for five variables for a given forecast cycle using parallelization and proactive memory management, handles file management, retries, and structured output.
 
-Link to download sample NCEP1 reanalysis data, data which is used in "qbo-metrics" and "ssw-composites": https://drive.google.com/drive/folders/13DhK1sMYJRz9jQKAZQK0BMLwukhCBdYp?usp=sharing
+If you want to run each workflow "out of the box," here's a link to download some sample NCEP1 reanalysis data, data which is used in "qbo-metrics" and "ssw-composites": https://drive.google.com/drive/folders/13DhK1sMYJRz9jQKAZQK0BMLwukhCBdYp?usp=sharing
 
 I have also included a recent unpublished manuscript: Elsbury_2026_process_oriented_diagnostics.pdf. This paper provides a comprehensive evaluation of the large-scale atmospheric circulation in 40+ CMIP6 and AMIP6 models, showing how differences in ocean boundary conditions and the resulting sea-surface temperature biases, drive systematic errors in jets, polar vortices, wave dynamics, and ENSO/QBO teleconnections relative to reanalysis. This project required managing a ~100 TB Netcdf/Zarr data lake.
