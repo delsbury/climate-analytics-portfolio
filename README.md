@@ -1,5 +1,5 @@
 # climate-analytics-portfolio
-Selected examples of my climate analytics, scientific computing, and data engineering workflows. 
+Welcome! My name is Dillon Elsbury. This repo contains my CV (Elsbury_CV_Dec_2025.pdf) and selected examples of my climate analytics, scientific computing, and data engineering workflows. 
 
 -- QBO metrics (signal extraction, reproducible analysis): Computes standardized Quasi-Biennial Oscillation (QBO) diagnostics using modular xarray-based functions and provides reproducible workflow for downstream analysis. See the "qbo-hist-amip-summary-v4.png" figure for multi-model example.
 
