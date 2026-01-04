@@ -1,7 +1,7 @@
 # climate-analytics-portfolio
-Welcome! My name is Dillon Elsbury - I am a geospatial data scientist with expertise in atmospheric science and climate. This repo contains my CV (Elsbury_CV_Dec_2025.pdf) and selected examples of my climate analytics, scientific computing, and data engineering workflows. 
+Welcome! My name is Dillon Elsbury - I am a geospatial scientist and engineer with expertise in atmospheric science and climate. This repo contains selected examples of my climate analytics, scientific computing, and data engineering workflows. 
 
--- QBO metrics (signal extraction, reproducible analysis): Computes standardized Quasi-Biennial Oscillation (QBO) diagnostics using modular xarray-based functions and provides reproducible workflow for downstream analysis. See the "qbo-hist-amip-summary-v4.png" figure for multi-model example.
+-- QBO metrics (signal processing workflow): Computes standardized Quasi-Biennial Oscillation (QBO) diagnostics using modular xarray-based functions and provides reproducible workflow for downstream analysis. See the "qbo-hist-amip-summary-v4.png" figure for multi-model example.
 
 -- SSW composites (pipeline + analysis + visualization): An end-to-end pipeline that constructs composite fields of surface temperature or sea level pressure anomalies following major Sudden Stratospheric Warming (SSW) events using xarray/dask, including diagnostics and plotting utilities.
 
